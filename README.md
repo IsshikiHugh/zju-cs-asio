@@ -1,5 +1,7 @@
 # ZJU CS All-Sum-in-One!
 
+[Page](https://isshikihugh.github.io/zju-cs-asio/) | [Repository](https://github.com/IsshikiHugh/zju-cs-asio)
+
 ## 介绍
 
 本仓库目前主要以收集各类与 ZJU-CS 有关的网站形式的资料为主，具体分四大类：
