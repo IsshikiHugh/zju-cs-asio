@@ -1,4 +1,4 @@
-# ZJU CS All-Sum-in-One!
+# ZJU CS - All Sum in One!
 
 [Page](https://isshikihugh.github.io/zju-cs-asio/) | [Repository](https://github.com/IsshikiHugh/zju-cs-asio)
 
@@ -19,7 +19,7 @@
 
 ## 目录
 
-- [ZJU CS All-Sum-in-One!](#zju-cs-all-sum-in-one)
+- [ZJU CS - All Sum in One!](#zju-cs---all-sum-in-one)
   - [介绍](#介绍)
   - [目录](#目录)
   - [All-Sum-in-One](#all-sum-in-one)
@@ -50,6 +50,7 @@
 | <a href="https://sakuratsuyu.github.io/Note/" target="_blank">💎 sakuratsuyus's NOTES</a> | 🥑 一些 CS 相关的理论知识，CV 笔记。 |
 | <a href="https://minjoker.github.io/" target="_blank">💎 MinJoker's Notebook</a> | 🥑 涉及 CS 专业课程、BCI 等，比较详细。 |
 | <a href="https://notion-next-six-rouge.vercel.app/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 cs 基础课程、经济学课程与 fintech/web3 方向的笔记。 |
+| <a href="https://yaoyaolingbro.github.io/notebook/" target="_blank">💎 yaoyaoling 的 CS notebook</a> | 🥑 一些 CS 相关的知识笔记。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |

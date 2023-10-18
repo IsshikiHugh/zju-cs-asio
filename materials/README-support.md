@@ -1,4 +1,4 @@
-# ZJU CS All-Sum-in-One!
+# ZJU CS - All Sum in One!
 
 [Page](https://isshikihugh.github.io/zju-cs-asio/) | [Repository](https://github.com/IsshikiHugh/zju-cs-asio)
 
@@ -19,7 +19,7 @@
 
 ## 目录
 
-- [ZJU CS All-Sum-in-One!](#zju-cs-all-sum-in-one)
+- [ZJU CS - All Sum in One!](#zju-cs---all-sum-in-one)
   - [介绍](#介绍)
   - [目录](#目录)
   - [All-Sum-in-One](#all-sum-in-one)
