@@ -46,7 +46,7 @@
 | <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 英专转 CS 和 NLP 的学姐的笔记本，内容覆盖语言学和 CS 等。 |
 | <a href="https://obsidian.zerokei.top/" target="_blank">💎 Chritch's Notebook</a> | 🥑 Chritch 的 obsidian 笔记发布站，有一些课程笔记和读书笔记。 |
 | <a href="https://note.jiepeng.tech/" target="_blank">💎 Jiepeng's notes</a> | 🥑 一些 CS 笔记，比较详细。 |
-| <a href="https://note.hobbitqia.cc/" target="_blank">💎 JHobbitQia's Notebook</a> | 🥑 一些 CS 相关笔记，涉及课程比较全。 |
+| <a href="https://note.hobbitqia.cc/" target="_blank">💎 HobbitQia's Notebook</a> | 🥑 一些 CS 相关笔记，涉及课程比较全。 |
 | <a href="https://sakuratsuyu.github.io/Note/" target="_blank">💎 sakuratsuyus's NOTES</a> | 🥑 一些 CS 相关的理论知识，CV 笔记。 |
 | <a href="https://minjoker.github.io/" target="_blank">💎 MinJoker's Notebook</a> | 🥑 涉及 CS 专业课程、BCI 等，比较详细。 |
 | <a href="https://notion-next-six-rouge.vercel.app/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 cs 基础课程、经济学课程与 fintech/web3 方向的笔记。 |
@@ -72,7 +72,7 @@
 
 > 这部分是一些碎碎念，对于仅希望来获取资源的同学可以跳过，当然你也可以选择停下脚步来一起听听故事！
 
-2021 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
+2022 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
 
 > 在 2022 年 5 月，我们怀揣着创建一个计算机方面的知识 & 生涯树，以及将记笔记爱好者们联结起来的[愿景](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly001_welcome)，创建了咸鱼肆。我们曾收集了大家的[课程笔记](https://www.yuque.com/xianyuxuan/saltfish_shop/course_res_index)，让大家[介绍自己和自己的知识库](https://www.yuque.com/xianyuxuan/saltfish_shop/intro)，并撰写了 24 期周报，分享自己所知道的内容。
 

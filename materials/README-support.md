@@ -41,7 +41,7 @@
 
 > 这部分是一些碎碎念，对于仅希望来获取资源的同学可以跳过，当然你也可以选择停下脚步来一起听听故事！
 
-2021 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
+2022 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
 
 > 在 2022 年 5 月，我们怀揣着创建一个计算机方面的知识 & 生涯树，以及将记笔记爱好者们联结起来的[愿景](https://www.yuque.com/xianyuxuan/saltfish_shop/weekly001_welcome)，创建了咸鱼肆。我们曾收集了大家的[课程笔记](https://www.yuque.com/xianyuxuan/saltfish_shop/course_res_index)，让大家[介绍自己和自己的知识库](https://www.yuque.com/xianyuxuan/saltfish_shop/intro)，并撰写了 24 期周报，分享自己所知道的内容。
 
