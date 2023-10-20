@@ -1,5 +1,6 @@
 # dev files
 .vscode
+__pycache__
 
 # mac files
 .DS_Store
