@@ -54,6 +54,7 @@
 
 首先 Fork 本仓库，然后使用下面两个方法之一来贡献你的资料，最后提交 PR 即可。
 
+
 <details><summary>1. 使用 py 脚本一键导入（增加资源推荐这个方案）</summary> 
 
 <pre class="highlight">
@@ -64,6 +65,7 @@
 
 </details>
 
+
 <details><summary>2. 直接编辑 csv 文件（修正资源推荐这个方案）</summary> 
 
 直接编辑 <code>data.csv</code> 文件，按照 csv 文件格式在行末添加数据。
@@ -71,6 +73,7 @@
 请确保你的数据格式和内容正确。
 
 </details>
+
 
 您可以使用如下命令来检查渲染后的结果以保证数据没有问题：
 

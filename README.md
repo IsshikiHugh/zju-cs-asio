@@ -51,6 +51,7 @@
 | <a href="https://minjoker.github.io/" target="_blank">💎 MinJoker's Notebook</a> | 🥑 涉及 CS 专业课程、BCI 等，比较详细。 |
 | <a href="https://notion-next-six-rouge.vercel.app/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 cs 基础课程、经济学课程与 fintech/web3 方向的笔记。 |
 | <a href="https://yaoyaolingbro.github.io/notebook/" target="_blank">💎 yaoyaoling 的 CS notebook</a> | 🥑 一些 CS 相关的知识笔记与技能拾遗。 |
+| <a href="https://www.zhihu.com/people/he-eeeeeeeee/posts" target="_blank">💎 金鱼马的知乎页面</a> | 🥑 hls 的文章完成度极高，目前文章主要涉及一些 C/C++ 知识与 AI 内容，推荐阅读！ |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
@@ -84,6 +85,7 @@
 
 首先 Fork 本仓库，然后使用下面两个方法之一来贡献你的资料，最后提交 PR 即可。
 
+
 <details><summary>1. 使用 py 脚本一键导入（增加资源推荐这个方案）</summary> 
 
 <pre class="highlight">
@@ -94,6 +96,7 @@
 
 </details>
 
+
 <details><summary>2. 直接编辑 csv 文件（修正资源推荐这个方案）</summary> 
 
 直接编辑 <code>data.csv</code> 文件，按照 csv 文件格式在行末添加数据。
@@ -101,6 +104,7 @@
 请确保你的数据格式和内容正确。
 
 </details>
+
 
 您可以使用如下命令来检查渲染后的结果以保证数据没有问题：
 
