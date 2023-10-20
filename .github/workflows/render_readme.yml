@@ -1,0 +1,33 @@
+name: Render README.md
+
+on:
+  push:
+    paths:
+      - 'data.csv'
+      - '.github/workflows/render_readme.yml'
+      - 'scripts/asio_helper.py'
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@master
+    - name: setup Python
+      uses: actions/setup-python@v3.1.0
+      with:
+        python-version: 3.9
+    - name: render README.md
+      run: |
+        python scripts/asio_helper.py -r
+    - name: commit changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff-index --quiet HEAD || git commit -m "render README.md"
+    - name: push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ACCESS_TOKEN }}
+        branch: ${{ github.ref }}
