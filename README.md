@@ -54,6 +54,7 @@
 | <a href="https://www.zhihu.com/people/he-eeeeeeeee/posts" target="_blank">💎 金鱼马的知乎页面</a> | 🥑 hls 的文章完成度极高，目前文章主要涉及一些 C/C++ 知识与 AI 内容，推荐阅读！ |
 | <a href="https://note.bowling233.top/" target="_blank">💎 bowling233's TechStack</a> | 🥑 CS 课程、书本笔记。 |
 | <a href="https://oneko.zone/" target="_blank">💎 oneko 的空间</a> | 🥑 CS 课程笔记、技术积累、未来的留学生活! |
+| <a href="https://lhxcs.github.io/note" target="_blank">💎 Iridescent's notebook</a> | 🥑 22 级图灵班同学 CS 课程笔记。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
