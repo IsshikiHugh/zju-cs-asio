@@ -60,14 +60,14 @@ class ASIOHelper:
         return True
     
     def load_data(self):
-        with open(self.file_name, 'r') as f:
+        with open(self.file_name, 'r', encoding='utf-8') as f:
             reader = csv.reader(f)
             for row in reader:
                 row = self.format_row(row)
                 self.rows.append(row)
                 
     def write_data(self):
-        with open(self.file_name, 'w') as f:
+        with open(self.file_name, 'w', encoding='utf-8') as f:
             writer = csv.writer(f)
             for row in self.rows:
                 row = self.format_row(row)
@@ -122,11 +122,11 @@ class ASIOHelper:
         # embed and render the new `README.md` #
         # ==================================== #
         
-        with open(support_name, 'r') as f:
+        with open(support_name, 'r', encoding='utf-8') as f:
             md = f.read()
         md = md.replace('<!-- ASIO-EMBED-HERE -->', md_table)
         
-        with open(output_name, 'w') as f:
+        with open(output_name, 'w', encoding='utf-8') as f:
             f.write(md)
         
         
