@@ -1,3 +1,4 @@
+import os
 import csv
 import sys
 from urllib.parse import urlparse
@@ -5,8 +6,14 @@ from urllib.parse import urlparse
 def red_str(msg:str):
     return '\033[31m' + msg + '\033[0m'
 
+def orange_str(msg:str):
+    return '\033[33m' + msg + '\033[0m'
+
 def red_print(msg:str):
     print(red_str(msg))
+    
+def orange_print(msg:str):
+    print(orange_str(msg))
 
 
 DESC_LIMIT = 256  # the max length of description to be displayed in the table
@@ -64,7 +71,10 @@ class ASIOHelper:
             reader = csv.reader(f)
             for row in reader:
                 row = self.format_row(row)
-                self.rows.append(row)
+                if len(row) != len(self.titles):
+                    orange_print(f'Illegal row detected in `data.csv`: {row}, it will be ignored and overwritten!')
+                else:
+                    self.rows.append(row)
                 
     def write_data(self):
         with open(self.file_name, 'w', encoding='utf-8') as f:
@@ -138,11 +148,20 @@ if __name__ == '__main__':
         -a: append a row to `data.csv`
         -r: render `data.csv`
     """
-    helper = ASIOHelper('data.csv')
-    
+    # check arguments
     assert len(sys.argv) == 2, usage
     flag = sys.argv[1]
 
+    # prepare the file paths and names
+    scripts_dir   = os.path.dirname(__file__)
+    repo_root_dir = os.path.dirname(scripts_dir)
+    data_path       = os.path.join(repo_root_dir, 'data.csv')
+    md_support_path = os.path.join(repo_root_dir, 'materials/README-support.md')
+    md_output_path  = os.path.join(repo_root_dir, 'README.md')
+    
+    helper = ASIOHelper(data_path)
+
+    # process the flag
     if flag == '-f':
         pass
     elif flag == '-a':
@@ -155,9 +174,12 @@ if __name__ == '__main__':
         # save the information
         helper.append_row(row)
     elif flag == '-r':
-        helper.render2md('README.md', 'materials/README-support.md')
+        helper.render2md(
+            output_name  = md_output_path, 
+            support_name = md_support_path
+        )
     else:
         raise NotImplementedError(red_str(f'Unknown flag: {flag}'))
-        
-    helper.write_data()
     
+    # save the data
+    helper.write_data()
