@@ -39,7 +39,7 @@
 | :--- | :--- |
 | <a href="https://note.tonycrane.cc/" target="_blank">💎 鹤翔万里的个人笔记本</a> | 🥑 内容详细、排版美观的计算机知识笔记，ZJU MkDocs 笔记流鼻祖。 |
 | <a href="https://xuan-insr.github.io/" target="_blank">💎 咸鱼暄的代码空间</a> | 🥑 以前写课程笔记，现在在深入 C++，未来还会有更多话题，致力于写出让每个新人都能无痛看懂的优质教程。 |
-| <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程学习笔记、技术积累、论文笔记等。把事情尽可能讲清楚、讲出自己的理解，按更容易学的方式组织知识。 |
+| <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程笔记、技术积累等。力求有真实的自己的见解且适合 ta 人学习，希望做到“替代教材”。 |
 | <a href="https://zicx.top/notebook" target="_blank">💎 Zicx 的笔记本</a> | 🥑 CS 课程笔记、技术备忘录、科研经历记录，在旅途中留下一点痕迹。 |
 | <a href="https://zhang-each.github.io/My-CS-Notebook/" target="_blank">💎 小角龙的学习笔记</a> | 🥑 小角龙前辈的博客，内容极其丰富，包含 CS 各方向内容的笔记。 |
 | <a href="https://freshboy-cyh.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
