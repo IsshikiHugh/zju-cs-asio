@@ -53,7 +53,7 @@
 | <a href="https://yaoyaolingbro.github.io/notebook/" target="_blank">💎 yaoyaoling 的 CS notebook</a> | 🥑 一些 CS 相关的知识笔记与技能拾遗。 |
 | <a href="https://www.zhihu.com/people/he-eeeeeeeee/posts" target="_blank">💎 金鱼马的知乎页面</a> | 🥑 hls 的文章完成度极高，目前文章主要涉及一些 C/C++ 知识与 AI 内容，推荐阅读！ |
 | <a href="https://note.bowling233.top/" target="_blank">💎 bowling233's TechStack</a> | 🥑 CS 课程、书本笔记。 |
-| <a href="https://oneko.zone/" target="_blank">💎 oneko 的空间</a> | 🥑 CS 课程笔记、技术积累、未来的留学生活! |
+| <a href="https://oneko.zone/" target="_blank">💎 oneko 的空间</a> | 🥑 CS 课程笔记、技术积累、未来的留学生活！ |
 | <a href="https://lhxcs.github.io/note" target="_blank">💎 Iridescent's notebook</a> | 🥑 22 级图灵班同学 CS 课程笔记。 |
 | <a href="https://xymmsnotebook.gitbook.io/noteofxymm/" target="_blank">💎 xymm's note</a> | 🥑 22 级计科工高的笔记，mainly CS & MATH & 科研[MLTheory]。 |
 | <a href="https://jly191.github.io" target="_blank">💎 01gg's Notebook</a> | 🥑 包含课程经验，web 开发相关的内容。 |
