@@ -27,6 +27,7 @@
   - [贡献方法](#贡献方法)
   - [鸣谢 / 灵感来源](#鸣谢--灵感来源)
   - [许可](#许可)
+  - [Star History](#star-history)
 
 
 ## All-Sum-in-One
@@ -97,6 +98,10 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 ## 许可
 
 本文档采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可，转载请注明出处。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IsshikiHugh/zju-cs-asio&type=Date)](https://star-history.com/#IsshikiHugh/zju-cs-asio&Date)
 
 ---
 
