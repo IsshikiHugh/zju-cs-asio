@@ -61,6 +61,7 @@
 | <a href="https://note.xecades.xyz/" target="_blank">💎 Xecades' Notebook</a> | 🥑 23 级图灵班同学 CS 相关笔记与拾遗（英文）。 |
 | <a href="https://zizheng.life" target="_blank">💎 Zizheng's Blog</a> | 🥑 一些北美课程自学经验、实习总结、技术分享。 |
 | <a href="https://stormckey.github.io/" target="_blank">💎 Stormckey's Page</a> | 🥑 21 级图灵同学的 CS 相关笔记，lab 经验和 blog。 |
+| <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 芭蕉姐姐的博客，包含 CS 和一些语言学笔记，以及一些经验、心得分享。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
