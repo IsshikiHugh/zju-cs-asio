@@ -32,6 +32,8 @@
 
 ## All-Sum-in-One
 
+> [!IMPORTANT]
+> 
 > 注：仅按照大类进行排序，先后顺序并不暗示笔记质量！
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
@@ -80,6 +82,8 @@
 
 ## 动机
 
+> [!NOTE]
+> 
 > 这部分是一些碎碎念，对于仅希望来获取资源的同学可以跳过，当然你也可以选择停下脚步来一起听听故事！
 
 2022 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
@@ -111,7 +115,7 @@
 
 直接编辑 <code>data.csv</code> 文件，按照 csv 文件格式在行末添加数据。
 
-请确保你的数据格式和内容正确。
+请确保你的数据格式和内容正确！（详细要求见下方“注意”。）
 
 </details>
 
@@ -125,7 +129,7 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 **注意**：
 
 1. 本项目仅仅收集资源链接，而不实际存储资源，**请勿提交资源文件**；
-2. 请注意排版问题，包括但不限于：中西文间加空格，描述末尾加句号等；
+2. 请注意排版问题，包括但不限于：**中西文间加空格**，**描述末尾加句号**等；
 
 如果发现项目中涉及的内容有误或链接失效等，可以直接修改 `data.csv` 中对应内容。
 
@@ -135,6 +139,12 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs/tree/master)
 - [SaltyfishShop/big_discusson](https://github.com/SaltyfishShop/big_discusson)
 
+以及 Contributors：
+
+<a href="https://github.com/IsshikiHugh/zju-cs-asio/graphs/contributors">
+    <img width="550" src="https://contrib.rocks/image?repo=IsshikiHugh/zju-cs-asio" />
+</a>
+
 ## 许可
 
 本文档采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可，转载请注明出处。
@@ -143,7 +153,7 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=IsshikiHugh/zju-cs-asio&type=Date)](https://star-history.com/#IsshikiHugh/zju-cs-asio&Date)
 
----
+
 
 <details><summary>彩蛋</summary>
 
