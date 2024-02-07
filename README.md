@@ -147,7 +147,7 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 
 ## 许可
 
-本文档采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可，转载请注明出处。
+本文档采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行许可，转载请注明出处。
 
 ## Star History
 
