@@ -45,7 +45,7 @@
 | <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程笔记、技术积累等。力求有真实的自己的见解且适合 ta 人学习，希望做到“替代教材”。 |
 | <a href="https://zicx.top/notebook" target="_blank">💎 Zicx 的笔记本</a> | 🥑 CS 课程笔记、技术备忘录、科研经历记录，在旅途中留下一点痕迹。 |
 | <a href="https://zhang-each.github.io/My-CS-Notebook/" target="_blank">💎 小角龙的学习笔记</a> | 🥑 小角龙前辈的博客，内容极其丰富，包含 CS 各方向内容的笔记。 |
-| <a href="https://freshboy-cyh.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
+| <a href="https://kaleo996.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
 | <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 英专转 CS 和 NLP 的学姐的笔记本，内容覆盖语言学和 CS 等。 |
 | <a href="https://obsidian.zerokei.top/" target="_blank">💎 Chritch's Notebook</a> | 🥑 Chritch 的 obsidian 笔记发布站，有一些课程笔记和读书笔记。 |
 | <a href="https://note.jiepeng.tech/" target="_blank">💎 Jiepeng's notes</a> | 🥑 一些 CS 笔记，比较详细。 |
@@ -148,7 +148,7 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 
 ## 许可
 
-本文档采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行许可，转载请注明出处。
+本文档采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可，转载请注明出处。
 
 ## Star History
 
