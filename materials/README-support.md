@@ -13,7 +13,7 @@
 
 出于一些原因，我并不打算在这个仓库中收集诸如课本、真题、大作业等可能引发一系列问题的资料，本仓库希望为各个相对来说更具有原创性的资料提供一个汇总、索引、引流的根入口。
 
-（由于混计人数在混合班中基数重大，所以也收录了一部分 ckc 的资源。）
+（由于混计人数在混合班中基数较大，所以也收录了一部分 ckc 的资源。）
 
 如果你喜欢这个项目，可以给这个项目一个 ⭐️；如果你发现项目中部分资源信息过时或有误（如链接失效、有更合适的描述等），又或者是你想分享更多的资源，请查看[贡献方法](#贡献方法)！
 
@@ -33,7 +33,7 @@
 ## All-Sum-in-One
 
 > [!IMPORTANT]
-> 
+>
 > 注：仅按照大类进行排序，先后顺序并不暗示笔记质量！
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
@@ -43,7 +43,7 @@
 ## 动机
 
 > [!NOTE]
-> 
+>
 > 这部分是一些碎碎念，对于仅希望来获取资源的同学可以跳过，当然你也可以选择停下脚步来一起听听故事！
 
 2022 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
@@ -60,7 +60,7 @@
 首先 Fork 本仓库，然后使用下面两个方法之一来贡献你的资料，最后提交 PR 即可。
 
 
-<details><summary>1. 使用 py 脚本一键导入（增加资源推荐这个方案）</summary> 
+<details><summary>1. 使用 py 脚本一键导入（增加资源推荐这个方案）</summary>
 
 <pre class="highlight">
   <code>python scripts/asio_helper.py <span class="nt">-a</span></code>
@@ -71,7 +71,7 @@
 </details>
 
 
-<details><summary>2. 直接编辑 csv 文件（修正资源推荐这个方案）</summary> 
+<details><summary>2. 直接编辑 csv 文件（修正资源推荐这个方案）</summary>
 
 直接编辑 <code>data.csv</code> 文件，按照 csv 文件格式在行末添加数据。
 
