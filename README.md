@@ -75,7 +75,7 @@
 | <a href="https://guahao31.github.io/2024_DD/" target="_blank">🧲 24 年春夏数字逻辑设计实验</a> | 🥑 2024 年数字逻辑设计实验指导手册，适用于部分班级，参考前请询问老师。 |
 | <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
 | <a href="https://github.com/QSCTech/zju-icicles" target="_blank">🎉 求是潮 zju-icicles</a> | 🥑 浙江大学课程攻略共享计划，范围涵盖 ZJU 所有课程，ZJU 规模最大的课程资源整理仓库，缺点是部分资源可能比较老旧。 |
-| <a href="https://github.com/ruoxining/ZJU_COURSE_MATERIALS" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
+| <a href="https://github.com/ruoxining/ZJUCourse" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
 | <a href="https://github.com/pengsida/learning_research" target="_blank">🎉 科研学习经验分享</a> | 🥑 彭思达学长的科研经历分享，学长很厉害，分享的内容很有用。 |
 | <a href="https://github.com/Zhang-Each/CourseNoteOfZJUSE" target="_blank">🎉 CourseNoteOfZJUSE</a> | 🥑 小角龙整理的 ZJU-SE 的一些课程笔记，历年卷，课程经历分享，被誉为软工圣经。 |
 | <a href="https://github.com/RyanFcr/ZJU_Course" target="_blank">🎉 ZJU_Course</a> | 🥑 浙江大学 20 级图灵信安学长的课程资料整理。 |
