@@ -46,7 +46,7 @@
 | <a href="https://zicx.top/notebook" target="_blank">💎 Zicx 的笔记本</a> | 🥑 CS 课程笔记、技术备忘录、科研经历记录，在旅途中留下一点痕迹。 |
 | <a href="https://zhang-each.github.io/My-CS-Notebook/" target="_blank">💎 小角龙的学习笔记</a> | 🥑 小角龙前辈的博客，内容极其丰富，包含 CS 各方向内容的笔记。 |
 | <a href="https://kaleo996.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
-| <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 英专转 CS 和 NLP 的学姐的笔记本，内容覆盖语言学和 CS 等。 |
+| <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 芭蕉姐姐的博客，包含 CS 和一些语言学笔记，以及一些经验、心得分享。 |
 | <a href="https://obsidian.zerokei.top/" target="_blank">💎 Chritch's Notebook</a> | 🥑 Chritch 的 obsidian 笔记发布站，有一些课程笔记和读书笔记。 |
 | <a href="https://note.jiepeng.tech/" target="_blank">💎 Jiepeng's notes</a> | 🥑 一些 CS 笔记，比较详细。 |
 | <a href="https://note.hobbitqia.cc/" target="_blank">💎 HobbitQia's Notebook</a> | 🥑 一些 CS 相关笔记，涉及课程比较全。 |
@@ -63,7 +63,6 @@
 | <a href="https://note.xecades.xyz/" target="_blank">💎 Xecades' Notebook</a> | 🥑 23 级图灵班同学 CS 相关笔记与拾遗（英文）。 |
 | <a href="https://zizheng.life" target="_blank">💎 Zizheng's Blog</a> | 🥑 一些北美课程自学经验、实习总结、技术分享。 |
 | <a href="https://stormckey.github.io/" target="_blank">💎 Stormckey's Page</a> | 🥑 21 级图灵同学的 CS 相关笔记，lab 经验和 blog。 |
-| <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 芭蕉姐姐的博客，包含 CS 和一些语言学笔记，以及一些经验、心得分享。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
@@ -75,7 +74,7 @@
 | <a href="https://guahao31.github.io/2024_DD/" target="_blank">🧲 24 年春夏数字逻辑设计实验</a> | 🥑 2024 年数字逻辑设计实验指导手册，适用于部分班级，参考前请询问老师。 |
 | <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
 | <a href="https://github.com/QSCTech/zju-icicles" target="_blank">🎉 求是潮 zju-icicles</a> | 🥑 浙江大学课程攻略共享计划，范围涵盖 ZJU 所有课程，ZJU 规模最大的课程资源整理仓库，缺点是部分资源可能比较老旧。 |
-| <a href="https://github.com/ruoxining/ZJU_COURSE_MATERIALS" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
+| <a href="https://github.com/ruoxining/ZJUCourse" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
 | <a href="https://github.com/pengsida/learning_research" target="_blank">🎉 科研学习经验分享</a> | 🥑 彭思达学长的科研经历分享，学长很厉害，分享的内容很有用。 |
 | <a href="https://github.com/Zhang-Each/CourseNoteOfZJUSE" target="_blank">🎉 CourseNoteOfZJUSE</a> | 🥑 小角龙整理的 ZJU-SE 的一些课程笔记，历年卷，课程经历分享，被誉为软工圣经。 |
 | <a href="https://github.com/RyanFcr/ZJU_Course" target="_blank">🎉 ZJU_Course</a> | 🥑 浙江大学 20 级图灵信安学长的课程资料整理。 |
