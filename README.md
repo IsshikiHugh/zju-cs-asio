@@ -45,7 +45,7 @@
 | :--- | :--- |
 | <a href="https://note.tonycrane.cc/" target="_blank">💎 鹤翔万里的个人笔记本</a> | 🥑 内容详细、排版美观的计算机知识笔记，ZJU MkDocs 笔记流鼻祖。 |
 | <a href="https://xuan-insr.github.io/" target="_blank">💎 咸鱼暄的代码空间</a> | 🥑 以前写课程笔记，现在在深入 C++，未来还会有更多话题，致力于写出让每个新人都能无痛看懂的优质教程。 |
-| <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程笔记、技术积累等。力求有真实的自己的见解且适合 ta 人学习，希望做到“替代教材”。 |
+| <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程笔记、技术积累等。力求有真实的自己的见解且适合 ta 人学习，希望做到『替代教材』。 |
 | <a href="https://zicx.top/notebook" target="_blank">💎 Zicx 的笔记本</a> | 🥑 CS 课程笔记、技术备忘录、科研经历记录，在旅途中留下一点痕迹。 |
 | <a href="https://zhang-each.github.io/My-CS-Notebook/" target="_blank">💎 小角龙的学习笔记</a> | 🥑 小角龙前辈的博客，内容极其丰富，包含 CS 各方向内容的笔记。 |
 | <a href="https://kaleo996.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
@@ -76,7 +76,7 @@
 | <a href="https://zju-sec.github.io/os23fall-stu/" target="_blank">🧲 23 年秋冬操作系统实验</a> | 🥑 2023 年操作系统课程实验指导手册。 |
 | <a href="https://github.com/ZJU-PPL" target="_blank">🧲 ZJU PPL Course</a> | 🥑 PPL 课程资料仓库。 |
 | <a href="https://guahao31.github.io/2024_DD/" target="_blank">🧲 24 年春夏数字逻辑设计实验</a> | 🥑 2024 年数字逻辑设计实验指导手册，适用于部分班级，参考前请询问老师。 |
-| <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
+| <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实验</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
 | <a href="https://github.com/QSCTech/zju-icicles" target="_blank">🎉 求是潮 zju-icicles</a> | 🥑 浙江大学课程攻略共享计划，范围涵盖 ZJU 所有课程，ZJU 规模最大的课程资源整理仓库，缺点是部分资源可能比较老旧。 |
 | <a href="https://github.com/ruoxining/ZJUCourse" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
 | <a href="https://github.com/pengsida/learning_research" target="_blank">🎉 科研学习经验分享</a> | 🥑 彭思达学长的科研经历分享，学长很厉害，分享的内容很有用。 |
