@@ -55,7 +55,7 @@
 | <a href="https://note.hobbitqia.cc/" target="_blank">💎 HobbitQia's Notebook</a> | 🥑 一些 CS 相关笔记，涉及课程比较全。 |
 | <a href="https://sakuratsuyu.github.io/Note/" target="_blank">💎 sakuratsuyus's NOTES</a> | 🥑 一些 CS 相关的理论知识，CV 笔记。 |
 | <a href="https://minjoker.github.io/" target="_blank">💎 MinJoker's Notebook</a> | 🥑 涉及 CS 专业课程、BCI 等，比较详细。 |
-| <a href="https://csfufu.life/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 cs 课程、经济学课程与 fintech(QF)/LTG(NLP) 方向的笔记。 |
+| <a href="https://csfufu.life/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 CS 课程、经济学课程与 fintech(QF)/LTG(NLP) 方向的笔记。 |
 | <a href="https://yaoyaolingbro.github.io/notebook/" target="_blank">💎 yaoyaoling 的 CS notebook</a> | 🥑 一些 CS 相关的知识笔记与技能拾遗。 |
 | <a href="https://www.zhihu.com/people/he-eeeeeeeee/posts" target="_blank">💎 金鱼马的知乎页面</a> | 🥑 hls 的文章完成度极高，目前文章主要涉及一些 C/C++ 知识与 AI 内容，推荐阅读！ |
 | <a href="https://note.bowling233.top/" target="_blank">💎 bowling233's TechStack</a> | 🥑 CS 课程、书本笔记。 |
