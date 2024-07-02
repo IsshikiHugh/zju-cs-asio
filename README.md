@@ -2,7 +2,7 @@
 
 <center>
 
-[Page](https://isshikihugh.github.io/zju-cs-asio/) | [Repository](https://github.com/IsshikiHugh/zju-cs-asio) | [Quick Jump](https://github.com/IsshikiHugh/zju-cs-asio?tab=readme-ov-file#all-sum-in-one)
+<a href="https://isshikihugh.github.io/zju-cs-asio/">Page</a> | <a href="https://github.com/IsshikiHugh/zju-cs-asio">Repository</a> | <a href="https://github.com/IsshikiHugh/zju-cs-asio?tab=readme-ov-file#all-sum-in-one">Quick Jump</a>
 
 </center>
 
@@ -121,7 +121,7 @@
 python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 ```
 
-> [!WARNING] 
+> [!WARNING]
 >
 > 1. 本项目仅仅收集资源链接，而不实际存储资源，**请勿提交资源文件**；
 > 2. 请注意排版问题，包括但不限于：**中西文间加空格**，**描述末尾加句号**等；
