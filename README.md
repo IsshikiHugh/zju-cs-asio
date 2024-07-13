@@ -68,7 +68,7 @@
 | <a href="https://stormckey.github.io/" target="_blank">💎 Stormckey's Page</a> | 🥑 21 级图灵同学的 CS 相关笔记，lab 经验和 blog。 |
 | <a href="https://note.howjul.com" target="_blank">💎 HowJul's note</a> | 🥑 21 级信安课程笔记和一些人工智能相关的笔记。 |
 | <a href="https://note.lilyarnold.cc/" target="_blank">💎 Lily's note</a> | 🥑 CS 课程笔记和 CV，AI 学习笔记。 |
-| <a href="https://birchtree2.github.io" target="_blank">💎 Birchtree's Notebook</a> | 🥑 22级CS课程笔记和AI+X学习笔记 |
+| <a href="https://birchtree2.github.io" target="_blank">💎 Birchtree's Notebook</a> | 🥑 22 级 CS 课程笔记和 AI+X 学习笔记。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
