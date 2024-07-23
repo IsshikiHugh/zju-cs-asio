@@ -114,7 +114,7 @@ class ASIOHelper:
         stat_items = []
         for type_id, cnt in type_cnt.items():
             stat_items.append(f' {self.type_mapping[int(type_id)]} {cnt} 项')
-        md_stat = '**条目统计**：' + ' | '.join(stat_items) + '！'
+        md_stat = '**条目统计**：' + ' / '.join(stat_items) + '！'
 
         # ============================ #
         # prepare table to be embedded #
@@ -142,7 +142,7 @@ class ASIOHelper:
         # ==================================== #
         # embed and render the new `README.md` #
         # ==================================== #
-        embed = f'{md_stat}\n{md_table}'
+        embed = f'{md_stat}\n\n{md_table}'
 
         with open(support_name, 'r', encoding='utf-8') as f:
             md = f.read()
