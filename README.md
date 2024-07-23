@@ -41,6 +41,7 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
+**条目统计**： 💎 个人 26 项 |  🔮 组织 5 项 |  🧲 课程 5 项 |  🎉 其他 6 项！
 | Title | Description |
 | :--- | :--- |
 | <a href="https://note.tonycrane.cc/" target="_blank">💎 鹤翔万里的个人笔记本</a> | 🥑 内容详细、排版美观的计算机知识笔记，ZJU MkDocs 笔记流鼻祖。 |

@@ -11,7 +11,7 @@ def orange_str(msg:str):
 
 def red_print(msg:str):
     print(red_str(msg))
-    
+
 def orange_print(msg:str):
     print(orange_str(msg))
 
@@ -45,7 +45,7 @@ class ASIOHelper:
         # check items number
         if len(row) != len(self.titles):
             red_print(f'Row length mismatch: {len(row)} != {len(self.titles)}')
-            
+
             return False
         # check title
         if row[0] == '':
@@ -65,7 +65,7 @@ class ASIOHelper:
 
         # all passed
         return True
-    
+
     def load_data(self):
         with open(self.file_name, 'r', encoding='utf-8') as f:
             reader = csv.reader(f)
@@ -75,14 +75,14 @@ class ASIOHelper:
                     orange_print(f'Illegal row detected in `data.csv`: {row}, it will be ignored and overwritten!')
                 else:
                     self.rows.append(row)
-                
+
     def write_data(self):
         with open(self.file_name, 'w', encoding='utf-8') as f:
             writer = csv.writer(f)
             for row in self.rows:
                 row = self.format_row(row)
                 writer.writerow(row)
-        
+
     def format_row(self, row:list):
         n = len(row)
         for i in range(n):
@@ -94,17 +94,28 @@ class ASIOHelper:
         assert len(row) == len(self.titles), red_str("Row length mismatch!")
         assert self.valid_row(row) == True, red_str("Invalid row! Append failed!")
         self.rows.append(row)
-        
+
     def get_titles(self):
         return self.titles
-    
+
     def sort_rows(self):
         self.rows.sort(key=lambda x: x[3])
-        
+
     def render2md(self, output_name:str, support_name:str):
         assert len(self.rows) > 0, red_str("Haven't load a file yet or the file is empty!")
         self.sort_rows()
-        
+
+        # ============================== #
+        # prepare statistics information #
+        # ============================== #
+        type_cnt = {}
+        for row in self.rows:
+            type_cnt[row[3]] = type_cnt.get(row[3], 0) + 1
+        stat_items = []
+        for type_id, cnt in type_cnt.items():
+            stat_items.append(f' {self.type_mapping[int(type_id)]} {cnt} 项')
+        md_stat = '**条目统计**：' + ' | '.join(stat_items) + '！'
+
         # ============================ #
         # prepare table to be embedded #
         # ============================ #
@@ -118,8 +129,8 @@ class ASIOHelper:
         for row in self.rows:
             line = '|'
             # title, URL and type
-            type = int(row[3])
-            line += f' <a href="{row[1]}" target="_blank">{self.type_mapping[type][:1]} {row[0]}</a> |'
+            type_id = int(row[3])
+            line += f' <a href="{row[1]}" target="_blank">{self.type_mapping[type_id][:1]} {row[0]}</a> |'
             # description
             desc = row[2]
             if len(desc) > DESC_LIMIT:
@@ -127,19 +138,20 @@ class ASIOHelper:
             line += f' 🥑 {desc} |'
             # finish line
             md_table += line + '\n'
-        
+
         # ==================================== #
         # embed and render the new `README.md` #
         # ==================================== #
-        
+        embed = f'{md_stat}\n{md_table}'
+
         with open(support_name, 'r', encoding='utf-8') as f:
             md = f.read()
-        md = md.replace('<!-- ASIO-EMBED-HERE -->', md_table)
-        
+        md = md.replace('<!-- ASIO-EMBED-HERE -->', embed)
+
         with open(output_name, 'w', encoding='utf-8') as f:
             f.write(md)
-        
-        
+
+
 if __name__ == '__main__':
     usage = """
     Usage: python scripts/asio_helper.py <flag>
@@ -158,7 +170,7 @@ if __name__ == '__main__':
     data_path       = os.path.join(repo_root_dir, 'data.csv')
     md_support_path = os.path.join(repo_root_dir, 'materials/README-support.md')
     md_output_path  = os.path.join(repo_root_dir, 'README.md')
-    
+
     helper = ASIOHelper(data_path)
 
     # process the flag
@@ -175,11 +187,11 @@ if __name__ == '__main__':
         helper.append_row(row)
     elif flag == '-r':
         helper.render2md(
-            output_name  = md_output_path, 
+            output_name  = md_output_path,
             support_name = md_support_path
         )
     else:
         raise NotImplementedError(red_str(f'Unknown flag: {flag}'))
-    
+
     # save the data
     helper.write_data()
