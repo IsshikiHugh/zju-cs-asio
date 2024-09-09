@@ -73,7 +73,7 @@
 | <a href="https://birchtree2.github.io" target="_blank">💎 Birchtree's Notebook</a> | 🥑 22 级 CS 课程笔记和 AI+X 学习笔记。 |
 | <a href="https://note.noughtq.top" target="_blank">💎 NoughtQ's Notebook</a> | 🥑 23 级 CSer 的 ZJU 和自学课程的笔记（专业课笔记完成度较高）。 |
 | <a href="https://blog.noughtq.top" target="_blank">💎 NoughtQ's Blog</a> | 🥑 23 级 CSer 的博客，收录课程回忆录、Writeup 和技能拾遗等非笔记形式的内容。 |
-| <a href="https://brucejqs.github.io/MyNotebook/" target="_blank">💎 BruceJin's Notebook</a> | 🥑 23级 CSer 的课程&自学笔记～ |
+| <a href="https://brucejqs.github.io/MyNotebook/" target="_blank">💎 BruceJin's Notebook</a> | 🥑 23级 CSer 的课程 & 自学笔记。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
