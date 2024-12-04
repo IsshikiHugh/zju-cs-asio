@@ -69,7 +69,7 @@
 | <a href="https://zizheng.life" target="_blank">💎 Zizheng's Blog</a> | 🥑 一些北美课程自学经验、实习总结、技术分享。 |
 | <a href="https://stormckey.github.io/" target="_blank">💎 Stormckey's Page</a> | 🥑 21 级图灵同学的 CS 相关笔记，lab 经验和 blog。 |
 | <a href="https://note.howjul.com" target="_blank">💎 HowJul's note</a> | 🥑 21 级信安课程笔记和一些人工智能相关的笔记。 |
-| <a href="https://note.lilyarnold.cc/" target="_blank">💎 Lily's note</a> | 🥑 CS 课程笔记和 CV，AI 学习笔记。 |
+| <a href="https://note.zhangyidi.tech/" target="_blank">💎 Lily's note</a> | 🥑 CS 课程笔记和 CV，AI 学习笔记。 |
 | <a href="https://birchtree2.github.io" target="_blank">💎 Birchtree's Notebook</a> | 🥑 22 级 CS 课程笔记和 AI+X 学习笔记。 |
 | <a href="https://note.noughtq.top" target="_blank">💎 NoughtQ's Notebook</a> | 🥑 23 级 CSer 的 ZJU 和自学课程的笔记（专业课笔记完成度较高）。 |
 | <a href="https://blog.noughtq.top" target="_blank">💎 NoughtQ's Blog</a> | 🥑 23 级 CSer 的博客，收录课程回忆录、Writeup 和技能拾遗等非笔记形式的内容。 |
