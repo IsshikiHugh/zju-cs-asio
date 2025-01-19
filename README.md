@@ -41,7 +41,7 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
-**条目统计**： 💎 个人 29 项 /  🔮 组织 5 项 /  🧲 课程 5 项 /  🎉 其他 6 项！
+**条目统计**： 💎 个人 30 项 /  🔮 组织 5 项 /  🧲 课程 5 项 /  🎉 其他 6 项！
 
 | Title | Description |
 | :--- | :--- |
@@ -74,6 +74,7 @@
 | <a href="https://note.noughtq.top" target="_blank">💎 NoughtQ's Notebook</a> | 🥑 23 级 CSer 的 ZJU 和自学课程的笔记（专业课笔记完成度较高）。 |
 | <a href="https://blog.noughtq.top" target="_blank">💎 NoughtQ's Blog</a> | 🥑 23 级 CSer 的博客，收录课程回忆录、Writeup 和技能拾遗等非笔记形式的内容。 |
 | <a href="https://brucejqs.github.io/MyNotebook/" target="_blank">💎 BruceJin's Notebook</a> | 🥑 23级 CSer 的课程 & 自学笔记。 |
+| <a href="https://jazzyzj.github.io/" target="_blank">💎 JazZyzJ's Space</a> | 🥑 23 级图灵班同学的学习笔记。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
