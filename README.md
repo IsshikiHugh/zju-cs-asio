@@ -73,7 +73,7 @@
 | <a href="https://note.noughtq.top" target="_blank">💎 NoughtQ's Notebook</a> | 🥑 23 级 CSer 的 ZJU 和自学课程的笔记（专业课笔记完成度较高）。 |
 | <a href="https://blog.noughtq.top" target="_blank">💎 NoughtQ's Blog</a> | 🥑 23 级 CSer 的博客，收录课程回忆录、Writeup 和技能拾遗等非笔记形式的内容。 |
 | <a href="https://brucejqs.github.io/MyNotebook/" target="_blank">💎 BruceJin's Notebook</a> | 🥑 23级 CSer 的课程 & 自学笔记。 |
-| <a href="https://jazzyzj.github.io/" target="_blank">💎 JazZyzJ's Space</a> | 🥑 23 级图灵班同学的学习笔记。 |
+| <a href="https://jazzyzj.github.io/" target="_blank">💎 JazZyzJ's Space</a> | 🥑 23 级图灵班同学的课程笔记 + Generative AI 学习笔记。 |
 | <a href="https://github.com/Tian42chen/Transcription-Malfunctioned" target="_blank">💎 Transcription-Malfunctioned</a> | 🥑 Tian42chen 前辈的 pdf CS 笔记，大多很详细。 |
 | <a href="https://zhoutimemachine.github.io/note/" target="_blank">💎 Jianjunzhou's Notebook</a> | 🥑 Jianjunzhou 前辈的 CS 笔记，包含课程笔记、习题解（偏向于专业基础课）。 |
 | <a href="https://db.darstib.cn/collection/note_link/" target="_blank">💎 Darstib's note_link</a> | 🥑 23 级 ISer 按其修读课程分类收集的笔记索引。 |
