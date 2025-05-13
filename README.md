@@ -76,8 +76,8 @@
 | <a href="https://jazzyzj.github.io/" target="_blank">💎 JazZyzJ's Space</a> | 🥑 23 级图灵班同学的课程笔记 + Generative AI 学习笔记。 |
 | <a href="https://github.com/Tian42chen/Transcription-Malfunctioned" target="_blank">💎 Transcription-Malfunctioned</a> | 🥑 Tian42chen 前辈的 pdf CS 笔记，大多很详细。 |
 | <a href="https://zhoutimemachine.github.io/note/" target="_blank">💎 Jianjunzhou's Notebook</a> | 🥑 Jianjunzhou 前辈的 CS 笔记，包含课程笔记、习题解（偏向于专业基础课）。 |
-| <a href="https://db.darstib.cn/collection/note_link/" target="_blank">💎 Darstib's note_link</a> | 🥑 23 级 ISer 按其修读课程分类收集的笔记索引。 |
-| <a href="https://db.darstib.cn/note/" target="_blank">💎 Darstib's notes</a> | 🥑 23 级 ISer 的校内外课程学习笔记。 |
+| <a href="https://darstib.github.io/blog/collection/note_link/" target="_blank">💎 Darstib's note_link</a> | 🥑 23 级 ISer 按其修读课程分类收集的笔记索引。 |
+| <a href="https://darstib.github.io/blog/note/" target="_blank">💎 Darstib's notes</a> | 🥑 23 级 ISer 的校内外课程学习笔记。 |
 | <a href="https://victorwang712.github.io/Note/" target="_blank">💎 Walker_V's Notebook</a> | 🥑 24 级混合班同学的学习笔记，包含课程笔记、课程资料（课后习题、实验代码等），希望能帮助到更多的人。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
