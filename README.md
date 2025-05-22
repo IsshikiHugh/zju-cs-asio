@@ -41,7 +41,7 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
-**条目统计**： 💎 个人 34 项 /  🔮 组织 5 项 /  🧲 课程 5 项 /  🎉 其他 6 项！
+**条目统计**： 💎 个人 34 项 /  🔮 组织 5 项 /  🧲 课程 6 项 /  🎉 其他 6 项！
 
 | Title | Description |
 | :--- | :--- |
@@ -89,6 +89,7 @@
 | <a href="https://github.com/ZJU-PPL" target="_blank">🧲 ZJU PPL Course</a> | 🥑 PPL 课程资料仓库。 |
 | <a href="https://guahao31.github.io/2024_DD/" target="_blank">🧲 24 年春夏数字逻辑设计实验</a> | 🥑 2024 年数字逻辑设计实验指导手册，适用于部分班级，参考前请询问老师。 |
 | <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实验</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
+| <a href="https://hpc101.zjusct.io/" target="_blank">🧲 超算实训（HPC101）</a> | 🥑 浙江大学超算队（ZJUSCT）短学期课程 HPC101 的课程网站，包含课程资料、实验指导等。 |
 | <a href="https://github.com/QSCTech/zju-icicles" target="_blank">🎉 求是潮 zju-icicles</a> | 🥑 浙江大学课程攻略共享计划，范围涵盖 ZJU 所有课程，ZJU 规模最大的课程资源整理仓库，缺点是部分资源可能比较老旧。 |
 | <a href="https://github.com/ruoxining/ZJUCourse" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
 | <a href="https://github.com/pengsida/learning_research" target="_blank">🎉 科研学习经验分享</a> | 🥑 彭思达学长的科研经历分享，学长很厉害，分享的内容很有用。 |
