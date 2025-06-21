@@ -41,7 +41,7 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
-**条目统计**： 💎 个人 34 项 /  🔮 组织 5 项 /  🧲 课程 6 项 /  🎉 其他 6 项！
+**条目统计**： 💎 个人 34 项 /  🔮 组织 5 项 /  🧲 课程 7 项 /  🎉 其他 6 项！
 
 | Title | Description |
 | :--- | :--- |
@@ -85,7 +85,8 @@
 | <a href="https://github.com/yhwu-is/Linear-Algebra-Left-Undone" target="_blank">🔮 Linear-Algebra-Left-Undone</a> | 🥑 竺院辅学讲义，针对图灵班线性代数的两本教材，力求搭建一个较为完整的线性代数学习体系，非常推荐。 |
 | <a href="https://turing2023.tonycrane.cc/" target="_blank">🔮 图灵 23 学长组资料汇总</a> | 🥑 图灵 2023 年迎新页面，适合不限于图灵班的新生参考。 |
 | <a href="http://courses.zjusec.com" target="_blank">🧲 安全攻防实践(CTF)</a> | 🥑 安全攻防实践(CTF)短学期课程网站。 |
-| <a href="https://zju-sec.github.io/os23fall-stu/" target="_blank">🧲 23 年秋冬操作系统实验</a> | 🥑 2023 年操作系统课程实验指导手册。 |
+| <a href="https://zju-sec.github.io/os24fall-stu/" target="_blank">🧲 24 年秋冬操作系统实验 A</a> | 🥑 2024 年操作系统课程实验指导手册（申文博班）。 |
+| <a href="https://yuque.zju.edu.cn/ytqfu3/mgf5fz" target="_blank">🧲 24 年秋冬操作系统实验 B</a> | 🥑 2024 年操作系统课程实验指导手册（伍赛班）。 |
 | <a href="https://github.com/ZJU-PPL" target="_blank">🧲 ZJU PPL Course</a> | 🥑 PPL 课程资料仓库。 |
 | <a href="https://guahao31.github.io/2024_DD/" target="_blank">🧲 24 年春夏数字逻辑设计实验</a> | 🥑 2024 年数字逻辑设计实验指导手册，适用于部分班级，参考前请询问老师。 |
 | <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实验</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
