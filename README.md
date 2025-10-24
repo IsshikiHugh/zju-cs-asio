@@ -41,7 +41,7 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
-**条目统计**： 💎 个人 34 项 /  🔮 组织 5 项 /  🧲 课程 7 项 /  🎉 其他 6 项！
+**条目统计**： 💎 个人 34 项 /  🔮 组织 5 项 /  🧲 课程 7 项 /  🎉 其他 7 项！
 
 | Title | Description |
 | :--- | :--- |
@@ -97,6 +97,7 @@
 | <a href="https://github.com/Zhang-Each/CourseNoteOfZJUSE" target="_blank">🎉 CourseNoteOfZJUSE</a> | 🥑 小角龙整理的 ZJU-SE 的一些课程笔记，历年卷，课程经历分享，被誉为软工圣经。 |
 | <a href="https://github.com/RyanFcr/ZJU_Course" target="_blank">🎉 ZJU_Course</a> | 🥑 浙江大学 20 级图灵信安学长的课程资料整理。 |
 | <a href="https://github.com/CSWellesSun/ZJUCourse" target="_blank">🎉 ZJUCourse</a> | 🥑 浙江大学 20 级图灵计科学长的课程资料整理。 |
+| <a href="https://phil-fan.github.io/awesome-zju-tools/" target="_blank">🎉 Awesome ZJU Tools</a> | 🥑 浙江大学生态圈中提高学习、科研与生活效率的工具、脚本、资源与模版合集。 |
 
 
 ## 动机
