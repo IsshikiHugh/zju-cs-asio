@@ -1,7 +1,7 @@
 import os
 import csv
 import sys
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote, unquote
 
 def red_str(msg:str):
     return '\033[31m' + msg + '\033[0m'
@@ -130,7 +130,12 @@ class ASIOHelper:
             line = '|'
             # title, URL and type
             type_id = int(row[3])
-            line += f' <a href="{row[1]}" target="_blank">{self.type_mapping[type_id][:1]} {row[0]}</a> |'
+            # line += f' <a href="{row[1]}" target="_blank">{self.type_mapping[type_id][:1]} {row[0]}</a> |'
+            url = quote(row[1], safe='')
+            name = quote(row[0], safe='')
+            img_src = f"https://img.shields.io/website?url={url}&label={name}&up_message=Online&up_color=blue&down_message=Offline&down_color=lightgray"
+            line += f' <a href="{url}" target="_blank"><img src="{img_src}" alt="{name}" /></a> |'
+
             # description
             desc = row[2]
             if len(desc) > DESC_LIMIT:
