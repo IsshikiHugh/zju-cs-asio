@@ -36,7 +36,7 @@ class ASIOHelper:
     def valid_url(self, url:str) -> bool:
         """ Check if a url is valid. """
         try:
-            result = urlparse(row[1])
+            result = urlparse(url)
             return all([result.scheme, result.netloc])
         except ValueError:
             return False
@@ -130,7 +130,14 @@ class ASIOHelper:
             line = '|'
             # title, URL and type
             type_id = int(row[3])
-            line += f' <a href="{row[1]}" target="_blank">{self.type_mapping[type_id][:1]} {row[0]}</a> |'
+            url = row[1]
+            title = row[0]
+            # URL encode for shields.io badge
+            url_encoded = quote(url, safe='')
+            # Generate small status badge with checkmark/cross (flat style)
+            status_badge = f'<img src="https://img.shields.io/website?url={url_encoded}&label=&up_message=✓&up_color=28a745&down_message=✗&down_color=dc3545&style=flat" alt="" height="14" />'
+            # Combine title link with status badge
+            line += f' <a href="{url}" target="_blank">{self.type_mapping[type_id][:1]} {title}</a> {status_badge} |'
 
             # description
             desc = row[2]
