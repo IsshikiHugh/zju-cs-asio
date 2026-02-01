@@ -41,6 +41,11 @@
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
 
+状态含义：
+- ✅：网站可访问
+- ❌：网站不可访问（有些具有反爬虫机制的网站也会被判为此类）
+- ⚠️：网站请求超时（比如位于校内网）等其他错误
+
 <!-- ASIO-EMBED-HERE -->
 
 ## 动机
